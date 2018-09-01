@@ -1,4 +1,6 @@
-# vue-pub
+# Vue PUB
+
+> SPA with Vue.js for PUB API
 
 ## Project setup
 ```
